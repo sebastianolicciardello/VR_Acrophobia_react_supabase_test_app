@@ -9,6 +9,7 @@ const App = () => {
   if (token) {
     sessionStorage.setItem('token', JSON.stringify(token))
   }
+  
 
   // useEffect to avoid to lose token on refresh 
   useEffect(() => {
