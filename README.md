@@ -8,3 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # VR_Acrophobia_react_supabase_test_app
 # VR_Acrophobia_react_supabase_test_app
+# VR_Acrophobia_react_supabase_test_app
